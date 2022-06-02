@@ -1,0 +1,14 @@
+body{
+    font-family: 'Merienda', cursive;
+    background-image: url("../img/fondoBlanco1.jpg");
+}
+
+.foto{
+    text-align :center;
+    }
+.menu {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
